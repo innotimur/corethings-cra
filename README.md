@@ -17,3 +17,5 @@ npm install
 ``` shell script
 npm start
 ```
+
+[figma](https://www.figma.com/file/ip87ylmvIDyEoic8hEDbu0/MVP-Corethings)
